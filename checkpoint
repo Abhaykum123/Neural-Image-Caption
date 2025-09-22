@@ -1,0 +1,2 @@
+model_checkpoint_path: "outputs_decoder"
+all_model_checkpoint_paths: "outputs_decoder"
